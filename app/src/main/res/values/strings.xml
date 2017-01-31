@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Picassa Test</string>
+    <string name="description">Cereal Guy is a stick figure character commonly used on image boards and discussion forums as a multi-purpose reaction face.</string>
+    <string name="description_format">%1$s\n\n%2$s</string>
+</resources>
